@@ -1,6 +1,5 @@
-# daemi
-dæmi um tengingu
-Greinargerð.
+# Greinargerð.
+# vefur: http://tsuts.tskoli.is/gjg/
 ## Um hvað er vefurinn?
   o Hver er markhópurinn
   o Markmið með gerð vefsins.
