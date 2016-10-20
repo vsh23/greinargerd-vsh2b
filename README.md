@@ -1,5 +1,5 @@
 # Greinargerð.
-# vefur: http://tsuts.tskoli.is/gjg/
+## vefur: http://tsuts.tskoli.is/2t/gjg/
 ## Um hvað er vefurinn?
   o Hver er markhópurinn
   o Markmið með gerð vefsins.
