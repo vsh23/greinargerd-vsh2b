@@ -10,7 +10,7 @@
   <li>Útskýrið eigin lausnir og virkni í kvikun.</li>
   <li>Hvað þú lentir í vandræðum með og hvernig þú leystir það.</li>
   <li>Hver geta verið næstu skref með vefinn (ókláruð virkni, endurbætur o.s.frv.).</li>
-  <li><a href="https://github.com/VSH24/greinargerd-vsh2b/wiki"> Setjið heimildaskrá í Wiki.</li>
+  <li><a href="https://github.com/VSH24/greinargerd-vsh2b/wiki"> Setjið heimildaskrá í Wiki.</a></li>
 </ul>
  ## Verkefnaskil 
  ### skilið tenglum á Innu á 
