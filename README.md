@@ -12,7 +12,7 @@
   <li>Hver geta verið næstu skref með vefinn (ókláruð virkni, endurbætur o.s.frv.).</li>
   <li><a href="https://github.com/VSH24/greinargerd-vsh2b/wiki"> Setjið heimildaskrá í Wiki.</a></li>
 </ul>
- ## Verkefnaskil á Innu tenglar: 
+ #### Verkefnaskil á Innu tenglar á: 
  <ul>
  <li>vef: http://tsuts.tskoli.is/2t/ verkefni 5.</li>
  <li>Vinnugögn á github (ss. sass kóði)</li>
