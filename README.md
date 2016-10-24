@@ -14,6 +14,7 @@
 </ul>
 <b> Verkefnaskil á Innu, tenglar á: </b>
  <ul>
- <li>vef: http://tsuts.tskoli.is/2t/ verkefni 5.</li>
- <li>Vinnugögn á github (ss. sass kóði)</li>
+   <li>vef: http://tsuts.tskoli.is/2t/ verkefni 5.</li>
+   <li>Github: greinargerð</li>
+   <li>Github: vinnugögn ss. sass kóði</li>
  </ul>
