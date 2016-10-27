@@ -1,6 +1,7 @@
 # Greinargerð.
 ## Um hvað er vefurinn?
 <ul>
+  <li>Efni vefsins - stutt lýsing</li>
   <li>Hver er markhópurinn</li>
   <li>Markmið með gerð vefsins.</li>
 </ul>
