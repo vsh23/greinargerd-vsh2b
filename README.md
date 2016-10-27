@@ -4,7 +4,7 @@
   <li>Efni vefsins - stutt lýsing</li>
   <li>Hver er markhópurinn</li>
   <li>Hvernig er hægt að ná athygli hópsins
-      <br> Happadrætti? Þáttaka í spurningakeppni
+      <br> Happadrætti? Þáttaka í spurningakeppni?
       <br> eru verðlaun í boði?</li>
 </ul>
 ## Tæknileg útfærsla
