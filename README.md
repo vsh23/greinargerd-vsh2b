@@ -10,9 +10,8 @@
 ## Tæknileg útfærsla
 <ul>
   <li>Hvaða kerfi valdir þú og hversvegna valdir þú það?</li>
-
+  <li>Vinnuferlið</li>
     <ul>
-      <li>Vinnuferlið</li>
       <li>Útskýrið eigin lausnir og virkni ss í kvikun.</li>
       <li>Ef þú lentir í vandræðum, hvernig leystir þú vandamálið?</li>
     </ul>
