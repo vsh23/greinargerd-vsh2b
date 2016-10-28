@@ -1,4 +1,4 @@
-# Greinargerð.
+# Greinargerð. (25% af einkunn)
 ## Um hvað er vefurinn?
 <ul>
   <li>Efni vefsins - stutt lýsing</li>
