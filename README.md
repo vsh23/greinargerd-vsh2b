@@ -15,5 +15,6 @@
   <li>Hver geta verið næstu skref með vefinn (ókláruð virkni, endurbætur o.s.frv.).</li>
   <li>vefur: http://tsuts.tskoli.is/2t/ -> verkefni 5.</li>
   <li><a href="https://github.com/VSH24/greinargerd-vsh2b/wiki"> Setjið heimildaskrá í Wiki.</a></li>
+  <li> Skilið tenglum á Innu.</li>
 </ul>
 
