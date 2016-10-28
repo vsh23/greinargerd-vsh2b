@@ -9,7 +9,7 @@
 </ul>
 ## Tæknileg útfærsla
 <ul>
-  <li>Hvaða kerfi valdir þú og hversvegna valdir þú það?</li>
+  <li>Hvaða kerfi (e. Framework - Gridsystem) valdir þú og hversvegna valdir þú það?</li>
   <li>Vinnuferlið</li>
     <ul>
       <li>Útskýrið eigin lausnir og virkni ss í kvikun.</li>
