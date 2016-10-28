@@ -16,7 +16,9 @@
       <li>Ef þú lentir í vandræðum, hvernig leystir þú vandamálið?</li>
       <li>Hver geta verið næstu skref með vefinn (ókláruð virkni, endurbætur o.s.frv.).</li>
     </ul>
-    <li>Verkefnaskil</li>
+
+</ul>
+## Verkefnaskil
     <ul>
     <li>Greinargerð á Github</li>
       <li>vefur: http://tsuts.tskoli.is/2t/ -> verkefni 5.</li>
@@ -24,5 +26,3 @@
       <li> Setjið vinnuskjöl á github (scss skrár ofl. sem birtist ekki á vefnum).</li>
       <li> Skilið tenglum á Innu.</li>
     </ul>
-</ul>
-
